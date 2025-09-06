@@ -1,6 +1,8 @@
 
 this is installation link:-
-pip install signal_ICT_ManavChotai_92400133081-1.0.0-py3-none-any.whl
+
+pip install signal-ICT-ManavChotai-92400133081
+
 first install that through cmd or any ide where we have to install that package 
 
 
